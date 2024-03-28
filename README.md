@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](Black & White Modern Minimalist Data Analyst LinkedIn Banner.png)
+(Black & White Modern Minimalist Data Analyst LinkedIn Banner.png)
 
 
 
