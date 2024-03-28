@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Mojdeh from Australia/Melbourne, and I'm pleased to share my journey . After learning and going through diverse fields , I have identified that I am passionate about the field of data,recognizing it it as an active and indispensable domain. I really enjoy learning languages , I also have been fully engaged with this dynamic field, expanding my knowledge by learning new tools and techniques such as Python, SQL,MySQL,power Bi , and Machine Learning.I participated in the Academy Xi Data Analysis Bootcamp, where I actively acquired practical skills and developed projects to demonstrate my abilities. I'm excited to share my progress with you, and thank you for stopping by my page.
 
@@ -12,5 +12,5 @@ Skills: Python/Power Bi/SQL/ML/MySQL/Tableau
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojdehBkh)](https://github.com/anuraghazra/github-readme-stats)
-![image](https://github.com/MojdehBakhshesh/MojdehBakhshesh/assets/153720915/1d2b29df-bf0c-4b50-9cb1-186e6a9923f8)
+
 
