@@ -18,6 +18,6 @@ Skills: Python/Power Bi/SQL/ML/MySQL/Tableau
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojdehBkh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aMojdeh Bakhshesh)](https://github.com/anuraghazra/github-readme-stats)
 
 
