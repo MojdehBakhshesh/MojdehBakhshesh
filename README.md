@@ -12,12 +12,8 @@ My name is Mojdeh from Australia/Melbourne, and I'm pleased to share my journey 
 
 Skills: 
 
-.Python
-.Power Bi
-.SQL
-.MySQL
-.Tableau
-.ML
+ Python/Power Bi/SQL/MySQL/Tableau/ML
+
 
 - 🔭 I’m currently working on some ML projects 
 - 🌱 I’m currently learning python and other data analytics tools 
