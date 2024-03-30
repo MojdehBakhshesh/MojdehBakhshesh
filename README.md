@@ -11,7 +11,7 @@ My name is Mojdeh from Australia/Melbourne, and I'm pleased to share my journey 
 
 Skills: Python/Power Bi/SQL/ML/MySQL/Tableau
 
-- 🔭 I’m currently working on some ML project 
+- 🔭 I’m currently working on some ML projects 
 - 🌱 I’m currently learning python and other data analytics tools 
 - 📫 How to reach me: mojdeh.bakhshesh90@gmail.com 
 - ⚡ Fun fact: I have eager to learning new subjects, one day without learning I feel sick ...I also used to work  as personal trainer,and health coach as well.And one of the skill that I have been really and deeply worked on it is how I can  manage my life and have balance  when I am super busy ...I achieve lots of skills during the past few years which have been helping me a lot to encounter challenging situation .
