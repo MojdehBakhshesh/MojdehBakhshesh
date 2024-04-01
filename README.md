@@ -7,7 +7,8 @@
 
 
 
-My name is Mojdeh from Australia/Melbourne, and I'm pleased to share my journey . I am currently working as biomedical  service engineer,After learning and going through diverse fields , I have identified that I am passionate about the field of data,recognizing  it as an active and indispensable domain. I really enjoy learning languages , I also have been fully engaged with this dynamic field, expanding my knowledge by learning new tools and techniques such as Python, SQL,MySQL,power Bi , and Machine Learning.I participated in the Academy Xi Data Analysis Bootcamp, where I actively acquired practical skills and developed projects to demonstrate my abilities. I'm excited to share my progress with you, and thank you for stopping by my page.
+My name is Mojdeh,I'm from Australia/Melbourne.I'm pleased to share my journey.
+I am currently working as biomedical  service engineer,After learning and going through diverse fields , I have identified that I am passionate about the field of data,recognizing  it as an active and indispensable domain. I really enjoy learning languages , I also have been fully engaged with this dynamic field, expanding my knowledge by learning new tools and techniques such as Python, SQL,MySQL,power Bi , and Machine Learning.I participated in the Academy Xi Data Analysis Bootcamp, where I actively acquired practical skills and developed projects to demonstrate my abilities. I'm excited to share my progress with you, and thank you for stopping by my page.
 
 
 Skills: 
