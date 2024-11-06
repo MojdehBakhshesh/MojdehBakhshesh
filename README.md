@@ -19,7 +19,7 @@ Skills:
 - 🔭 I’m currently working on some ML projects 
 - 🌱 I’m currently learning python and other data analytics tools 
 - 📫 How to reach me: mojdeh.bakhshesh90@gmail.com 
-- ⚡ Fun fact: I have eager to learning new subjects, one day without learning I feel sick ...I also used to work  as personal trainer,and health coach as well.And one of the skill that I have been really and deeply worked on it is how I can  manage my life and have balance  when I am super busy ...I achieve lots of skills during the past few years which have been helping me a lot to encounter challenging situation .
+- ⚡ Fun fact: I have eager to learning new subjects, one day without learning I feel sick ...I also used to work  as personal trainer,and health coach as well,I'm also learning photography.And one of the skill that I have been really and deeply worked on it is how I can  manage my life and have balance  when I am super busy ...I achieve lots of skills during the past few years which have been helping me a lot to encounter challenging situation .
 
 
 
